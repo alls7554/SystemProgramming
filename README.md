@@ -1,5 +1,5 @@
-# Report of SystemProgramming  
-# (First half-year of 2020 TUE, 09:00 ~ 12:00)
+# Report of SystemProgramming - First half-year of 2020
+
 
 report &nbsp; : Make a directory and an any file (hello.c hello.java ...etc)  
 report2 : Makefile(linux, using bash)  
